@@ -1,0 +1,20 @@
+{
+    "Author": "Samhita Kulkarni[MSFT]",
+    "ContentSize": 4498,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/iis-data-tier-update-script-for-asr-recovery-plan/master/IISDataTierUpdate.ps1",
+    "DownloadCount": 476,
+    "Id": "IIS-Data-tier-update-a5316870",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 482,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Runbook to run a custom script inside an Azure Virtual Machine. This script needs to be used along with recovery plans in Azure Site Recovery.Runs this PowerShell script to update connection sring on IIS server.\u00a0\u00a0 Download IIS-Update-ConnectionString.ps1\u00a0 script from here",
+    "Title": "IIS Data Tier update script for ASR Recovery Plan",
+    "UpdatedDate": "2017-3-24T00:00:00",
+    "Url": "https://github.com/azureautomation/iis-data-tier-update-script-for-asr-recovery-plan",
+    "UserTags": "Azure Site Recovery"
+}
